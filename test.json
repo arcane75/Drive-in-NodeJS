@@ -1,0 +1,8 @@
+{
+    "name": "rakib",
+    "email": "test@example.com",
+    "address": {
+        "city": "New York",
+        "country": "United States"
+    }
+}
